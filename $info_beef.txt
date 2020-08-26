@@ -1,0 +1,3 @@
+11. BeEF
+
+BeEF adalah singkatan dari The Browser Exploitation Framework yang terutama difokuskan pada alat uji penetrasi berbasis web browser. Itu berarti bahwa itu memanfaatkan kelemahan yang ada dalam aplikasi web yang digunakan oleh korban. Terutama memanfaatkan Cross Site Scripting dan setelah payload dijalankan penyerang dapat sepenuhnya mengambil alih korban web browser.

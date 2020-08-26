@@ -1,0 +1,12 @@
+3. Armitage
+
+Armitage adalah alat manajemen serangan cyber grafis dan menyediakan antarmuka GUI untuk semua fitur Metasploit dan membuatnya lebih mudah untuk dipahami dan digunakan. Jika Anda benar-benar ingin mengerti dan tumbuh menjadi fitur canggih maka Armitage adalah pilihan tepat bagi Anda.
+
+Armitage mengatur kemampuan Metasploit seputar proses hacking. Ada fitur untuk penemuan, akses, pasca eksploitasi, dan manuver.
+
+Dan jika Anda bekerja dalam tim maka bisa menjadi bantuan nyata untuk berbagi informasi dengan tim Anda:
+
+Gunakan sesi yang sama
+Berbagi host korban, ambil data, unduh file dll.
+Berkomunikasi menggunakan log peristiwa bersama.
+Jalankan bot untuk mengotomatisasi tugas.

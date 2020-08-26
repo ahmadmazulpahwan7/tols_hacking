@@ -1,0 +1,3 @@
+1. Metasploit
+
+Metasploit adalah framework untuk mengembangkan eksploitasi, shellcodes, fuzzing tool, payloads dll. Metasploit ini memiliki koleksi eksploitasi dan alat eksploitasi yang sangat banyak yang digabungkan ke dalam framework ini. Metasploit tersedia untuk semua Sistem Operasi utama di luar sana Windows, OS X, dan Linux dan telah terinstal di Kali Linux. Ini adalah alat ofensif dan untuk menyerang infrastruktur Anda sendiri atau perusahaan Anda untuk memeriksa celah keamanan dan memperbaikinya sebelum penyerang sebenarnya bisa masuk.

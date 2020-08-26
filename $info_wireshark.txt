@@ -1,0 +1,7 @@
+5. Wireshark
+
+Wireshark adalah alat open source untuk analisis jaringan dan pembuatan jaringan lalu lintas dan paket dan alat semacam ini disebut sebagai Network Sniffers.
+
+Wireshark, yang sebelumnya dikenal sebagai Ethereal, digunakan untuk memantau lalu lintas jaringan dan menganalisis paket yang dikirim keluar. Wireshark dapat mencegat lalu lintas jaringan mulai dari informasi tingkat koneksi hingga bit informasi yang membentuk paket sinyal. Semua ini dilakukan secara real time dan menunjukkan kepada pengguna dalam format yang mudah dibaca. Ada banyak perkembangan yang dilakukan pada alat (platform) selama bertahun-tahun dan mencakup filter, pengkodean warna paket bergantung pada informasi mereka dan fitur ini benar-benar membantu penguji penetrasi untuk menggali lebih dalam lalu lintas jaringan dan memeriksa paket di dalamnya. detail.
+
+Catatan: Jika Anda benar-benar tertarik pada administrasi Jaringan dan pengujian penetrasi maka mengetahui bagaimana menggunakan Wireshark adalah keterampilan yang dibutuhkan. Ada banyak sumber yang tersedia secara online dari tempat Anda bisa belajar tentang penggunaan Wireshark secara mendalam.

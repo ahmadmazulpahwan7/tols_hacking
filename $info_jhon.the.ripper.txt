@@ -1,0 +1,5 @@
+4. Jhon The Ripper (JTR)
+
+Jhon The Ripper adalah alat yang sangat populer untuk cracking password, juga dikenal sebagai JTR dan juga memiliki nama paling keren untuk semua alat. Sebagian besar hanya disebut sebagai ‘Jhon’ itu adalah alat yang paling umum digunakan untuk memecahkan kata sandi dan melakukan serangan kamus. Jhon The Ripper mengambil file teks, disebut ‘daftar kata’, yang berisi daftar kata sandi yang umum digunakan atau kata kunci asli yang diretas sebelumnya, dan mengenkripsi kata sandi di daftar kata dengan cara yang sama seperti kata sandi yang sedang dipecahkan. Kemudian bandingkan string output dengan string terenkripsi dari kata sandi yang tersedia.
+
+Alat ini bisa digunakan untuk melakukan berbagai jenis serangan kamus. Jika Anda bingung antara Jhon The Ripper dan THC Hydra maka cara termudah untuk menjelaskannya adalah bahwa THC Hydra digunakan untuk memecahkan kata sandi untuk layanan online dan Jhon The Ripper digunakan untuk cracking password secara offline.

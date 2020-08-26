@@ -1,0 +1,3 @@
+12. Maltego
+
+Alat ini mengumpulkan semua informasi yang tersedia mengenai target melalui internet seperti email, data DNS dan lainnya. Ini bisa digunakan untuk mengumpulkan informasi tentang individu atau jaringan. Ini ada dalam kategori forensik digital.

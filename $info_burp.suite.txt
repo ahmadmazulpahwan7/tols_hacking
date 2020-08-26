@@ -1,0 +1,12 @@
+7. Burp Suite
+
+Burp Suite adalah alat penguji penetrasi aplikasi web alat Mimpi dan alat yang paling ampuh di luar sana di internet bisa bisa digunakan untuk menutupi segala sesuatu yang penuh secara mendalam yang pernah Anda inginkan. Jadi saya akan menjadi yang terbaik untuk menjelaskan secara menyeluruh semua detailnya karena ada banyak hal untuk dibahas. Berikut adalah daftar singkat komponen Burp Suite:
+
+Intercepting Proxy – Bagian Burp ini memungkinkan untuk memeriksa dan memodifikasi semua permintaan dan tanggapan yang dilakukan browser Anda terhadap aplikasi target.
+Spider – Ini adalah alat yang sangat berguna untuk membuat daftar semua direktori dan file di server dan fungsinya.
+Web Scanner * – Bagian penting karena mendeteksi daftar kerentanan yang ada di situs ini.
+Penyusup – Ini digunakan untuk membuat dan melakukan serangan yang disesuaikan untuk menemukan dan mengeksploitasi kesalahan tak terduga.
+Repeater – Memodifikasi dan mengirim ulang setiap permintaan individu.
+Sequencer – Untuk menguji keacakan token (csrf, authenticity_token dll)
+Ekstensi * – Memungkinkan Anda untuk menulis dan menambahkan plugin yang dirancang khusus untuk Anda sendiri atau mendownload plugin pra-dibuat, untuk melakukan serangan yang kompleks dan sepenuhnya disesuaikan.
+* Sumbang fitur yang hanya tersedia dalam versi pro.

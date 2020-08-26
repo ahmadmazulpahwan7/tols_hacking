@@ -1,0 +1,3 @@
+13. Ettercap
+
+Ini adalah alat keamanan jaringan sumber terbuka dan gratis untuk serangan man-in-the-middle di LAN. Ini bisa digunakan untuk analisis protokol jaringan dan audit keamanan Anda. Ini tersedia di Windows, Unix, Linux BSD dan distro lainnya.

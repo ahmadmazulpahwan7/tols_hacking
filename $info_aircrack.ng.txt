@@ -1,0 +1,7 @@
+10. Aircrack-ng
+
+Sekali lagi alat cracking Password disini dan kali ini digunakan untuk crack password Wifi. Alat semacam ini benar-benar efektif jika digunakan di tangan kanan. Bagi mereka yang baru mengenal program hacking khusus nirkabel ini, Aircrack-ng adalah alat pengunci kunci 802.11 WEP dan WPA-PSK yang dapat memulihkan kunci saat paket data yang cukup ditangkap (dalam mode monitor). Bagi yang bertugas dengan jaringan nirkabel penetrasi dan auditing Aircrack-ng akan menjadi sahabat terbaik Anda.
+
+Dan jika Anda masuk ke hacking Wifi dan merupakan hacker biasa-biasa saja maka akan membawa Anda beberapa menit untuk memecahkan sandi nirkabel WEP dan untuk memecahkan WPA / WPA2 Anda harus melakukan banyak pekerjaan.
+
+Bagi mereka yang tertarik dengan hacking nirkabel, periksa Reaver utilitas hacking wifi yang populer lainnya.

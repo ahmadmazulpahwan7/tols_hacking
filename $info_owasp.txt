@@ -1,0 +1,9 @@
+8. OWASP
+
+OWASP Zed Attack Proxy (ZAP) juga merupakan alat Proxy yang terkenal dan merupakan alternatif yang bagus untuk Burp Suite dan yang bagus adalah sumbernya yang gratis dan terbuka. Dan jika Anda telah membaca semua isi tulisan di atas daripada itu berarti Anda sudah tahu tentang hal ini sedikit 😀dan Anda mungkin sudah familiar dengan apa itu OWASP.
+
+Dan jika Anda tidak tahu apa OWASP kemudian di sini adalah singkat dan mudah dimengerti OWASP  adalah komunitas keamanan perangkat lunak bebas dan open source.
+
+Dan jika Anda masuk ke pengujian penetrasi web maka Anda harus membaca OWASP Top 10 ini ‘buku panduan’ keamanan aplikasi web.
+
+Alat ini melakukan pekerjaan dengan cukup baik dan juga mudah menggunakan program yang menemukan kelemahan dalam aplikasi web. Apa yang membuat OWASP ZAP bagus menggunakan alat ini karena memiliki banyak dukungan dari Komunitas Keamanan OWASP. Anda bisa menggunakannya untuk memindai target dan menjalankan pemindaian otomatis untuk menemukan kerentanan dan Anda juga bisa melakukan pengujian manual seperti gaya pro.

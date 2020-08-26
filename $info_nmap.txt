@@ -1,0 +1,3 @@
+2. Nmap (Network Mapper)
+
+Nmap digunakan untuk memindai keseluruhan jaringan untuk port terbuka dan untuk jaringan pemetaan dan lebih banyak hal. Hal ini terutama digunakan untuk memindai jaringan dan menemukan PC online dan untuk audit keamanan. Sebagian besar admin jaringan menggunakan Nmap untuk menemukan komputer online, port terbuka dan mengelola layanan yang berjalan. Menggunakan paket IP mentah dengan cara yang kreatif untuk mengetahui host apa yang tersedia di jaringan dan port apa saja yang terbuka dimana layanan (nama aplikasi dan versi) berjalan pada sistem tersebut

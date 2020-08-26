@@ -1,0 +1,3 @@
+6. THC Hydra
+
+THC Hydra adalah alat lain untuk cracking password dan kebanyakan Jhon The Ripper dan Hydra digunakan dari tangan ke tangan. THC Hydra juga dikenal sebagai Hydra adalah alat cracking password yang sangat populer untuk hacking Network Login menggunakan serangan Brute Force dan juga serangan kamus di halaman login. Dan mendukung berbagai protokol jaringan seperti SSH, Mail (POP3, IMAP, dll.), Database, SMB, VNC, LDAP, SMB, dan keseluruhan protokol lainnya.
